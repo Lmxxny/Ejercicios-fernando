@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos lineales", "Arreglos lineales\Arreglos lineales.csproj", "{81F5CD8A-E2EA-4C81-87C7-EDD16BFE93C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F5CD8A-E2EA-4C81-87C7-EDD16BFE93C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F5CD8A-E2EA-4C81-87C7-EDD16BFE93C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F5CD8A-E2EA-4C81-87C7-EDD16BFE93C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F5CD8A-E2EA-4C81-87C7-EDD16BFE93C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF0CF92-7540-4EC1-8A74-E1AD408D1EBE}
+	EndGlobalSection
+EndGlobal
